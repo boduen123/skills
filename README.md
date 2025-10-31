@@ -70,10 +70,10 @@ I love integrating **AI into full-stack apps**, enabling smarter, more adaptive 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="https://bonkin_solution.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://boduen.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
