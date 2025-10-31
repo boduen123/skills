@@ -1,6 +1,6 @@
 <!-- 🌟 GitHub Profile README for [Your Name] -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [niyonkuru boduen]</h1>
 <h3 align="center">💻 Full Stack & MERN Developer | AI & ML Enthusiast | Cybersecurity Learner | UI/UX & Tailwind CSS Designer</h3>
 
 <p align="center">
