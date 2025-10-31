@@ -2,7 +2,7 @@
 ✨ GitHub Profile README for [niyonkuru boduen]
 -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [niyonkuru boduen]</h1>
 <h3 align="center">💻 Software Engineer | Full Stack & MERN Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
