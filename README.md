@@ -1,6 +1,6 @@
-<!-- 🌟 GitHub Profile README for [Your Name] -->
+<!-- 🌟 GitHub Profile README for Niyonkuru Boduen -->
 
-<h1 align="center">Hi 👋, I'm [niyonkuru boduen]</h1>
+<h1 align="center">Hi 👋, I'm Niyonkuru Boduen</h1>
 <h3 align="center">💻 Full Stack & MERN Developer | AI & ML Enthusiast | Cybersecurity Learner | UI/UX & Tailwind CSS Designer</h3>
 
 <p align="center">
@@ -11,23 +11,20 @@
 
 ### 🚀 About Me
 
-I am a passionate and versatile **Software Developer** with expertise in **Full Stack Web Development**, specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** as well as traditional stacks such as **MySQL + Node.js + React**.  
+I am a passionate and versatile **Software Developer** with expertise in **Full Stack Web Development**, specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** as well as traditional stacks such as **PHP + Laravel + MySQL**.  
 
-My experience spans building **dynamic, responsive, and secure web applications** from the ground up — from **frontend UI/UX design** with **Tailwind CSS** to **backend architecture** and **database management**.  
+I build **dynamic, responsive, and secure web applications** from the ground up — from **frontend UI/UX design** with **Tailwind CSS** to **backend architecture**, **database management** (including **Neo4j**) and APIs.  
 
-Beyond web development, I have strong knowledge in **Machine Learning (ML)** and **Artificial Intelligence (AI)**, including **data preprocessing**, **model training**, and **deploying intelligent systems** that solve real-world problems.  
-
-I enjoy integrating **AI into full-stack applications**, enabling smarter, adaptive digital experiences.  
-Additionally, I’m learning **Cybersecurity** to strengthen application security, data protection, and ethical hacking fundamentals.
+I also explore **AI & ML**, working with **Python, TensorFlow**, and deploying intelligent systems. Cybersecurity and ethical hacking are also part of my skillset.
 
 ---
 
 ### 🧠 Tech Stack & Skills
 
 #### 💻 Full Stack Development
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB, MySQL, Firebase
+- **Frontend:** React.js, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs
+- **Database:** MongoDB, MySQL, Firebase, Neo4j
 
 #### 🤖 AI & Machine Learning
 - Python (NumPy, Pandas, Scikit-learn, TensorFlow)
@@ -46,9 +43,27 @@ Additionally, I’m learning **Cybersecurity** to strengthen application securit
 
 ---
 
-### 🛠️ Tools I Use
+### 🛠️ Tools & Tech Icons
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,js,html,css,bootstrap,python,tensorflow,git,github,figma,aws,vercel,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,neo4j,ts,php,laravel,tailwind,js,html,css,bootstrap,python,tensorflow,git,github,figma,aws,vercel,vscode,linux" />
+</p>
+
+---
+
+### 🎮 Small Games I Built
+<p align="center">
+  <a href="https://boduen.netlify.app/tictactoe" target="_blank">
+    <img src="https://img.shields.io/badge/Tic-Tac-Toe-FF5733?style=for-the-badge"/>
+  </a>
+  <a href="https://boduen.netlify.app/snake" target="_blank">
+    <img src="https://img.shields.io/badge/Snake-4CAF50?style=for-the-badge"/>
+  </a>
+  <a href="https://boduen.netlify.app/memory" target="_blank">
+    <img src="https://img.shields.io/badge/Memory-FFC300?style=for-the-badge"/>
+  </a>
+  <a href="https://boduen.netlify.app/puzzle" target="_blank">
+    <img src="https://img.shields.io/badge/Sliding-Puzzle-3498DB?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -86,4 +101,5 @@ Additionally, I’m learning **Cybersecurity** to strengthen application securit
 <p align="center">
   <i>“Blending technology, intelligence, and design to build secure and smart digital experiences.”</i>
 </p>
+
 
